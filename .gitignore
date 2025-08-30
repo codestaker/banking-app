@@ -1,0 +1,8 @@
+# Compiled class files
+*.class
+
+# LaTeX submission file
+submission.tex
+
+# Directory with text files
+banking-app/
